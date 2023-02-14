@@ -7,4 +7,9 @@ just now i have edited this
 >>>>>>> 6687ed231e3b52b0fe03ea7c2e807516123be058
 =======
 second line that we have edited.
+<<<<<<< HEAD
 >>>>>>> 27d65452b8a112523889dc62f0124b1c2a9c0fcd
+=======
+third line we have edited
+>>>>>>> 73a9ae696ca53c54d2b63dd74944f8534f2c8d68
+something in local repos
