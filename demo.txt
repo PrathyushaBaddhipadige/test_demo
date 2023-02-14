@@ -13,3 +13,4 @@ second line that we have edited.
 third line we have edited
 >>>>>>> 73a9ae696ca53c54d2b63dd74944f8534f2c8d68
 something in local repos
+we need to commit
