@@ -1,2 +1,6 @@
 hi im here
+<<<<<<< HEAD
 we need to check wheather that file is edited or not
+=======
+just now i have edited this
+>>>>>>> 6687ed231e3b52b0fe03ea7c2e807516123be058
