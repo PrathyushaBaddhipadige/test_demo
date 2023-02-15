@@ -1,0 +1,115 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 100%;
+  font-family: sans-serif;
+}
+body {
+  display: flex;
+  height: 120%;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background-color: aliceblue;
+  /*padding: 10px;*/
+}
+.container {
+  width: 120%;
+  background: rgb(187, 101, 168);
+  padding: 25px 30px;
+  border-radius: 25px;
+  box-shadow: 20px 20px 20px;
+  height: 120%;
+  margin-top: 60px;
+}
+.input-box {
+  margin-bottom: 15px;
+  padding: 8px;
+  padding-right: 20px;
+}
+.details {
+  display: block;
+  font-weight: 500;
+  padding-bottom: 2px;
+}
+.input-box input {
+  height: 45px;
+  width: 100%;
+  border: 1px solid blue;
+  padding-left: 10px;
+  font-size: 100%;
+  border-radius: 10px;
+}
+.button {
+  width: 30%;
+  height: 30px;
+  text-align: center;
+  font-size: 18px;
+  margin-left: 10px;
+  margin-bottom: 15%;
+  /*padding-bottom: 10px;*/
+  /*size: 30px;*/
+  border-radius: 6px;
+  background-color: greenyellow;
+  color: black;
+}
+p {
+  text-align: center;
+  font-size: large;
+}
+/*img {
+  width: 2%;
+  height: 40px;
+  position: absolute;
+  padding-bottom: 20%;
+  padding-right: 1000px;
+  margin-top: 0%;
+  margin-left: 5%;
+}*/
+.gender {
+  margin-bottom: 15px;
+  padding: 8px;
+  padding-right: 20px;
+}
+.female {
+  width: 10px;
+}
+@media screen and (min-width: 900px) {
+  body {
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: white;
+  }
+
+  .container {
+    width: 120%;
+    background: blueviolet;
+    padding: 25px 30px;
+    border-radius: 25px;
+    box-shadow: 20px 20px 20px;
+    height: 120%;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  body {
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: rgb(52, 235, 98);
+  }
+
+  .container {
+    width: 120%;
+    background: rgb(214, 214, 235);
+    padding: 25px 30px;
+    border-radius: 25px;
+    box-shadow: 20px 20px 20px;
+    height: 120%;
+  }
+}
